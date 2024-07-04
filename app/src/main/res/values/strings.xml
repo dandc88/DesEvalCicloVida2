@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Relojería Latam</string>
+
+    //Nombres
+
+
+    <string name="nombre_sucursal1">Cicero Store</string>
+    <string name="nombre_sucursal2">Li Europan lingues</string>
+    <string name="nombre_sucursal3">Relojeria Kafka</string>
+    <string name="nombre_sucursal4">Love Craft Arts</string>
+    <string name="nombre_sucursal5">The Ancient Mariner</string>
+
+   // Horarios
+
+    <string name="horario_sucursal1">Horario de atención: Lunes a viernes desde las 9:00 a las 18:30, sábados y domingos abierto desde las 10:30 a las 15:30</string>
+    <string name="horario_sucursal2">Horario de atención: Lunes a viernes desde las 9:00 a las 18:30, fines de semana cerrado</string>
+    <string name="horario_sucursal3">Horario de atención: Lunes a viernes desde las 9:00 a las 18:30, fines de semana cerrado</string>
+    <string name="horario_sucursal4">Horario de atención: Lunes a viernes desde las 9:00 a las 18:30</string>
+    <string name="horario_sucursal5">Horario de atención: Lunes a viernes desde las 9:00 a las 18:30</string>
+
+    //Direcciones
+    <string name="direccion_sucursal1">Dirección: Colosseum, Piazza del Colosseo, 1, 00184 Roma RM, Italy</string>
+    <string name="direccion_sucursal2">Dirección: Panthéon, Pl. du Panthéon, 75005 Paris, France</string>
+    <string name="direccion_sucursal3">Dirección: Prague Astronomical Clock, Staroměstské nám. 1, 110 00 Josefov, Czechia</string>
+    <string name="direccion_sucursal4"><![CDATA[Dirección: Lovecraft Arts & Sciences, 65 Weybosset St, Providence, RI 02903, United States]]></string>
+    <string name="direccion_sucursal5">Dirección: Public Art: The Ancient Mariner, 11 The Esplanade, Watchet TA23 0AH, United Kingdom</string>
+
+    //Historias
+    <string name="historia_sucursal1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</string>
+    <string name="historia_sucursal2">Historia: Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues.</string>
+    <string name="historia_sucursal3">Historia: One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.</string>
+    <string name="hostoria_sucursal4">Historia: Still another time have I come to a place where it is very difficult to proceed. I ought to be hardened by this stage; but there are some experiences and intimations which scar too deeply to permit of healing, and leave only such an added sensitiveness that memory reinspires all the original horror. We saw, as I have said, certain obstructions on the polished floor ahead; and I may add that our nostrils were assailed almost simultaneously by a very curious intensification of the strange prevailing fetor, now quite plainly mixed with the nameless stench of those others which had gone before. The light of the second torch left no doubt of what the obstructions were, and we dared approach them only because we could see, even from a distance, that they were quite as past all harming power as had been the six similar specimens unearthed from the monstrous star-mounded graves at poor Lake\'s camp.</string>
+    <string name="historia_sucursal5">Historia: Day after day, day after day, We stuck, nor breath nor motion; As idle as a painted ship Upon a painted ocean. Water, water, every where, And all the boards did shrink; Water, water, every where, Nor any drop to drink. The very deep did rot: O Christ! That ever this should be! Yea, slimy things did crawl with legs Upon the slimy sea. About, about, in reel and rout The death-fires danced at night; The water, like a witch\'s oils, Burnt green, and blue and white. And some in dreams assurèd were Of the Spirit that plagued us so; Nine fathom deep he had followed us From the land of mist and snow. And every tongue, through utter drought, Was withered at the root; We could not speak, no more than if We had been choked with soot. Ah! well a-day! what evil looks Had I from old and young! Instead of the cross, the Albatross About my neck was hung.</string>
+
+    //Botones
+    <string name="texto_boton">Compartir nombre tienda</string>
+    <string name="direccion_sucursal_label">Direccion sucursal</string>
+    <string name="foto_se_sucursal">Foto se sucursal</string>
+
+</resources>
